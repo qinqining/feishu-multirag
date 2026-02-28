@@ -101,3 +101,5 @@ python main.py
 阿里云百炼：DASHSCOPE_API_KEY 在「阿里云百炼控制台 - API - 密钥管理」生成，QWEN_VL_MODEL 选择自己所需模型；
 
 ngrok：NGROK_TOKEN 在 ngrok 官网（https://ngrok.com/）注册，在(Your Authtoken)中复制
+
+check demo_video in the example folder
